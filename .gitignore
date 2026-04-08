@@ -1,0 +1,11 @@
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+.env
+.venv/
+venv/
+
+# raw exercise/source files
+data/*.xlsx
+data/*.xls
+data/*.csv

@@ -47,19 +47,19 @@ The analysis is structured to inform real-world deployment strategy, not just de
 ## Visual Analysis
 
 ### Corridor Analysis
-![Corridors](charts/02_top_corridors.png)
+![Corridors](notebook/charts/02_top_corridors.png)
 
 ### Hotspot Segments
-![Hotspots](charts/04_hotspots.png)
+![Hotspots](notebook/charts/04_hotspots.png)
 
 ### Hourly Risk Profile
-![Hourly](charts/03_hour_profile.png)
+![Hourly](notebook/charts/03_hour_profile.png)
 
 ### Crash Drivers (Causal Factors)
-![Causal](charts/05_causal_factors.png)
+![Causal](notebook/charts/05_causal_factors.png)
 
 ### Day/Hour Heatmap
-![Heatmap](charts/06_heatmap.png)
+![Heatmap](notebook/charts/06_heatmap.png)
 
 ## Tactical Recommendations
 
